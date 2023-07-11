@@ -11,7 +11,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
     align-items: center;
     display: flex;
     justify-content: space-between;
@@ -153,24 +153,65 @@
     height: 420px;
     padding-right: 429px;
 }
-.textpart{
+
+.textpart {
     text-align: center;
 }
-.section3{
+
+.section3 {
     max-width: 1950px;
 }
-.text3{
+
+.text3 {
     padding-top: 60px;
 }
-.flower-img{
+
+.flower-img {
     display: flex;
     justify-content: space-around;
     padding: 40px 240px;
 }
-.last-section{
-    background-image: url(img/Rectangle\ 9.png);
+
+.last-section {
     max-width: 1950px;
+
+    padding: 128px 0px;
+    display: flex;
+    justify-content: center;
+
 }
-.text-last{
+
+.text-box {
+    background-image: url(img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+
+}
+
+.text-last {
     text-align: center;
+    padding-top: 122px;
+}
+
+.last-h {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 16px;
+}
+
+.checkbox {
+    text-align: center;
+    padding-top: 48px;
+
+}
+
+.enter {
+    width: 700px;
+    height: 64px;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 22px;
 }
