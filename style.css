@@ -15,12 +15,14 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
+    
 
 }
 
 .image10 {
-    width: 650px;
+    width: 635px;
     padding-right: 240px;
+    padding-top: 50px;
 }
 
 .writing-part {
